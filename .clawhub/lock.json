@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "skills": {
+    "find-skills": {
+      "version": "0.1.0",
+      "installedAt": 1773142081592
+    },
+    "agent-browser": {
+      "version": "0.2.0",
+      "installedAt": 1773142144583
+    },
+    "skill-creator": {
+      "version": "0.1.0",
+      "installedAt": 1773142462474
+    },
+    "brainstorming": {
+      "version": "0.1.0",
+      "installedAt": 1773142584456
+    },
+    "copywriting": {
+      "version": "0.1.0",
+      "installedAt": 1773142590878
+    },
+    "social-content": {
+      "version": "0.1.0",
+      "installedAt": 1773142634451
+    },
+    "executing-plans": {
+      "version": "0.1.0",
+      "installedAt": 1773142643910
+    },
+    "deepresearch-conversation": {
+      "version": "1.1.2",
+      "installedAt": 1773142682809
+    },
+    "baidu-baike-data": {
+      "version": "1.1.0",
+      "installedAt": 1773142674628
+    },
+    "baidu-scholar-search-skill": {
+      "version": "1.1.0",
+      "installedAt": 1773142676726
+    },
+    "ai-notes-ofvideo": {
+      "version": "1.1.0",
+      "installedAt": 1773142679225
+    },
+    "baidu-search": {
+      "version": "1.1.1",
+      "installedAt": 1773142681081
+    },
+    "seo-audit": {
+      "version": "1.1.0",
+      "installedAt": 1773142681081
+    },   
+    "marketing-ideas": {
+      "version": "1.1.0",
+      "installedAt": 1773142681081
+    },
+    "competitor-alternatives": {
+      "version": "1.1.0",
+      "installedAt": 1773142681081
+    },
+    "agent-browser": {
+      "version": "1.1.0",
+      "installedAt": 1773142681081
+    }
+  }
+}
