@@ -1,0 +1,79 @@
+# FPGA Test Suite - Git Ignore
+
+# Vivado
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.xpr
+*.xsa
+*.hwdef
+*.hdf
+*.bit
+*.ltx
+*.jou
+*.log
+*.str
+*.dcp
+*.xdc.bak
+
+# Intel Quartus
+db/
+incremental_db/
+output_files/
+simulation/
+timing/
+*.qsf.bak
+*.qpf
+*.sof
+*.pof
+*.rpt
+*.smsg
+
+# ModelSim/QuestaSim
+work/
+vsim.wlf
+*.vstf
+*.ucdb
+transcript
+
+# Verilator
+obj_dir/
+*.o
+*.a
+*.so
+
+# General simulation
+*.vcd
+*.fst
+*.ghw
+*.wdb
+*.wcfg
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.pkl
+
+# Results and reports (keep structure, ignore content)
+results/*/
+!results/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Build directories
+build/
+out/
+dist/
